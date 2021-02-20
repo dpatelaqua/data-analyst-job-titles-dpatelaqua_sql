@@ -189,7 +189,7 @@ LIMIT 4;
 ----OTHER
 
 /* Internet and Software is the highest by 62 positions
-Internet & Software = 62, Bank and Financial Services = 61, 
+Internet & Software = 62, Bank and Financial Services = 61, --
 Consulting and Business Services = 57 , HealthCare = 52 */
 
 --other
